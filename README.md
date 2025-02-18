@@ -7,7 +7,6 @@
 - [Data Source](#data-source)
 - [Visualizations](#visualizations)
 - [Insights](#insights)
-- [Future Enhancements](#future-enhancements)
 - [Access the Dashboard](#access-the-dashboard)
 - [Contact](#contact)
 
@@ -33,11 +32,6 @@ This **COVID-19 Tableau Dashboard** provides an interactive visualization of glo
 - **Europe and Asia** recorded the highest number of deaths.
 - **China, India, and Japan** led the global vaccination drive.
 - **High variation** in infection rates across different continents and countries.
-
-## Future Enhancements
-- **Real-time data integration** to track ongoing COVID-19 trends.
-- **Drill-down capabilities** for country-specific insights.
-- **Predictive analytics** to estimate future infection and vaccination rates.
 
 ![Tableau Covid Dashboard](https://github.com/user-attachments/assets/6279e436-6745-4a46-9234-818eca50562f)
 
